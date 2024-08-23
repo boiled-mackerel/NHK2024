@@ -3460,9 +3460,6 @@
     (pin "4" (uuid 6a542bff-5551-4115-b5cc-c38552aa3053))
     (instances
       (project "ODAmain"
-        (path "/83972afe-ad2d-4cb7-a6d7-9dc26d3c5939/b550f57f-bdcc-4169-bf19-85d84ec7f50a"
-          (reference "J8") (unit 1)
-        )
         (path "/83972afe-ad2d-4cb7-a6d7-9dc26d3c5939"
           (reference "J8") (unit 1)
         )
@@ -3890,9 +3887,6 @@
     (pin "1" (uuid 4e595f20-167d-42c5-ac09-6780e4365489))
     (instances
       (project "ODAmain"
-        (path "/83972afe-ad2d-4cb7-a6d7-9dc26d3c5939/b550f57f-bdcc-4169-bf19-85d84ec7f50a"
-          (reference "#PWR033") (unit 1)
-        )
         (path "/83972afe-ad2d-4cb7-a6d7-9dc26d3c5939"
           (reference "#PWR011") (unit 1)
         )
@@ -4905,9 +4899,6 @@
     (pin "4" (uuid ad3d54eb-d824-499e-9bde-f5f5e57f6ad4))
     (instances
       (project "ODAmain"
-        (path "/83972afe-ad2d-4cb7-a6d7-9dc26d3c5939/b550f57f-bdcc-4169-bf19-85d84ec7f50a"
-          (reference "J8") (unit 1)
-        )
         (path "/83972afe-ad2d-4cb7-a6d7-9dc26d3c5939"
           (reference "J11") (unit 1)
         )
@@ -5083,9 +5074,6 @@
     (pin "1" (uuid 6d3cf23a-acf9-420a-abbe-0110aea5fc23))
     (instances
       (project "ODAmain"
-        (path "/83972afe-ad2d-4cb7-a6d7-9dc26d3c5939/b550f57f-bdcc-4169-bf19-85d84ec7f50a"
-          (reference "#PWR032") (unit 1)
-        )
         (path "/83972afe-ad2d-4cb7-a6d7-9dc26d3c5939"
           (reference "#PWR010") (unit 1)
         )
@@ -5181,14 +5169,14 @@
     )
   )
 
-  (sheet (at 20.32 162.56) (size 27.94 21.59) (fields_autoplaced)
-    (stroke (width 0) (type solid))
+  (sheet (at 31.75 167.64) (size 22.86 13.97) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
-    (uuid b550f57f-bdcc-4169-bf19-85d84ec7f50a)
-    (property "Sheetname" "F446RE" (at 20.32 161.8484 0)
+    (uuid 7fe230c0-717c-4a10-911d-01f7ecbb71f2)
+    (property "Sheetname" "f446" (at 31.75 166.9284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "F446RE.sch" (at 20.32 184.7346 0)
+    (property "Sheetfile" "untitled.kicad_sch" (at 31.75 182.1946 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
