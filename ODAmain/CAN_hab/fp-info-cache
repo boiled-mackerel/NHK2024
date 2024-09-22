@@ -1,4 +1,4 @@
-22997429314427229
+23006052483002232
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+BD7LS04G-CTL
+SOT95P280X125-5N
+SSOP5
+Integrated Circuit
+0
+5
+5
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -94619,6 +94626,13 @@ watanabe_smy
 4
 4
 watanabe_smy
+20Px-JMCS-GAN-A-TF
+
+
+0
+22
+21
+watanabe_smy
 BNO055
 
 
@@ -94632,6 +94646,13 @@ TLP785
 0
 4
 4
+watanabe_smy
+IM920sL
+
+
+0
+24
+21
 watanabe_smy
 NJM431SU
 
@@ -94647,12 +94668,26 @@ NJM2380AF
 5
 5
 watanabe_smy
+NJU7386
+
+
+0
+8
+8
+watanabe_smy
 Potentiometer_3362p
 
 
 0
 3
 3
+watanabe_smy
+R3006SB
+
+
+0
+24
+10
 watanabe_smy
 SN75176BP
 
