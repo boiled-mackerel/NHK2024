@@ -1,4 +1,4 @@
-23004327134058459
+23018212115718301
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94668,6 +94668,13 @@ NJM2380AF
 5
 5
 watanabe_smy
+NJU7386
+
+
+0
+8
+8
+watanabe_smy
 Potentiometer_3362p
 
 
@@ -94702,6 +94709,20 @@ Y14H-1C-3DS
 0
 6
 6
+watanabe_smy
+YAMADAmain_ver2.0_QR
+
+
+0
+0
+0
+watanabe_smy
+deans_horizontal
+
+
+0
+2
+2
 watanabe_smy
 en
 
@@ -94760,6 +94781,20 @@ sabamiso_10^10
 0
 watanabe_smy
 sabamiso_25%
+
+
+0
+0
+0
+watanabe_smy
+square_coil
+
+
+0
+4
+2
+watanabe_smy
+square_coil_2
 
 
 0

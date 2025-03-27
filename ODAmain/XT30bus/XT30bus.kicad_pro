@@ -449,7 +449,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "XT30bus.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

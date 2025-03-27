@@ -35,8 +35,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 4.5,
-          "width": 4.5
+          "height": 6.5,
+          "width": 6.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.19999999999999998
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -173,7 +173,8 @@
       ],
       "track_widths": [
         0.0,
-        0.5
+        1.0,
+        2.0
       ],
       "via_dimensions": [
         {
@@ -181,8 +182,8 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.5,
-          "drill": 0.3
+          "diameter": 2.0,
+          "drill": 1.8
         }
       ],
       "zones_allow_external_fillets": false
@@ -410,7 +411,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "CAN_hab.kicad_pro",
+    "filename": "YAMADAmain_veresp32.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -446,7 +447,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "CAN_hab.step",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -487,7 +488,7 @@
   },
   "sheets": [
     [
-      "b09c36ba-556c-4362-b936-bc1f1ef98ff1",
+      "98e874fe-ea1d-4e36-a43c-6cc089150d44",
       ""
     ]
   ],

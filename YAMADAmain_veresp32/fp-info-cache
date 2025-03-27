@@ -1,4 +1,4 @@
-23049460201843475
+23011278620251256
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56252,13 +56252,6 @@ SwitchingDiode_SOD123_1N4148
 2
 2
 Footprint_nishi
-SwitchingDiode_SOD123_1N4148_k
-
-
-0
-2
-2
-Footprint_nishi
 T-Connector(Female)
 
 
@@ -56279,13 +56272,6 @@ TLP627
 0
 4
 4
-Footprint_nishi
-TSSOP-B8
-
-
-0
-8
-8
 Footprint_nishi
 U74HC14
 
@@ -56337,13 +56323,6 @@ allpcb
 0
 Footprint_nishi
 crystal_hc-49u
-Crystal, HC-49U
-QUARTZ
-0
-2
-2
-Footprint_nishi
-crystal_hc-49u_k
 Crystal, HC-49U
 QUARTZ
 0
@@ -66724,13 +66703,6 @@ FuseHolder_Carfuse_3
 4
 2
 NagaokaFootprint2023
-FuseHolder_Carfuse_3_k
-
-
-0
-4
-2
-NagaokaFootprint2023
 Heatsink_16x25x16mm_NJM2396F12
 
 
@@ -68326,13 +68298,6 @@ QFN NoLead
 0
 37
 33
-PML
-PML50
-
-
-0
-2
-2
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -87373,62 +87338,20 @@ rotary encoder
 0
 7
 6
-SOP
-SOP-J8
-
-
-0
-8
-8
-SOP
+SOP8
 SOP8
 
 SOP8 
 0
 8
 8
-SOP
+SOP14
 SOP14
 
 SOP14 
 0
 14
 14
-SOP
-SSOP5
-
-
-0
-5
-5
-SOP
-SSOP6
-
-SSOP6 
-0
-6
-6
-SOT-343_(USQ)
-USQ_TOS
-
-1SS382 
-0
-4
-4
-SOT-343_(USQ)
-USQ_TOS-L
-
-1SS382 
-0
-4
-4
-SOT-343_(USQ)
-USQ_TOS-M
-
-1SS382 
-0
-4
-4
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -94773,27 +94696,6 @@ SN75176BP
 8
 8
 watanabe_smy
-TO-220-3_Vertical
-
-
-0
-3
-3
-watanabe_smy
-TSR-3362W
-
-
-0
-3
-3
-watanabe_smy
-TSR-C3305
-
-
-0
-3
-3
-watanabe_smy
 TSSOP-28
 
 
@@ -94884,20 +94786,6 @@ sabamiso_25%
 0
 0
 0
-watanabe_smy
-square_coil
-
-
-0
-4
-2
-watanabe_smy
-square_coil_2
-
-
-0
-4
-2
 watanabe_smy
 sr-abeII_logo
 
